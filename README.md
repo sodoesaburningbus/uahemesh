@@ -8,8 +8,13 @@ Date range is YYYYMMDD,YYYYMMDD
 
 Example:
 python emesh_plot.py"
+
 Please enter station numbers as 'SN,SN,...'
+
 01, 02, 03
+
 Please enter desired date range as 'YYYYMMDD,YYYYMMDD or just YYYYMMDD if only one day
+
 20161023
+
 --END EXAMPLE--
