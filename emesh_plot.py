@@ -1,5 +1,4 @@
 #This script plots observations for up to 10 emesh stations for a given date range
-#Use by typing "python emesh_plot.py [stations] [date range]" at the command line.
 #Station numbers are 2-digit station codes seperated by commas
 #Date range is YYYYMMDD,YYYYMMDD
 #
@@ -12,9 +11,6 @@
 #--END EXAMPLE--
 #
 #Written by Christopher Phillips
-#
-#Future plans
-#Allow for date ranges to transition years
 
 #Importing necessary modules
 import datetime
