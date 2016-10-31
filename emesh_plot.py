@@ -138,6 +138,7 @@ for s in range(len(stations)):
 	pp.plot(time, rain, colors[s])
 	pp.title("Rainfall (mm)")
 	pp.xlim(xaxis)
+	pp.ylim([0,max(rain)+0.2])
 	pp.xticks(numpy.arange(0,24*len(dates)+dt,dt))
 	pp.grid(True)
 
